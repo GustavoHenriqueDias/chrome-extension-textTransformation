@@ -1,0 +1,9 @@
+{
+    "name": "Text Trasnformation",
+    "version":"1.0",
+    "description": "Trasform a text in uppercase, lowercase or only the first letter in uppercase.",
+    "browser_action": {
+        "default_popup":"index.html"
+    },
+    "manifest_version":2
+}
